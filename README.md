@@ -1,5 +1,5 @@
 # XGBoost_Depression_Prediction
-# Technical skills shown: 
+## Technical skills shown: 
 exploratory data analysis, data visualization, data cleaning model preparation, XGBoost Algorithm, model evaluation, SHAP summary plots
 ## ABSTRACT
 
